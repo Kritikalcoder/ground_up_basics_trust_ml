@@ -37,6 +37,7 @@ This is a curation of educational resources in various sub-fields of Computer Sc
 ### **Trustworthy Machine Learning**
 Note that a majority of the resources mentioned from this section onwards is re-shared from [trustworthyml.org](https://www.trustworthyml.org/resources) - a wonderful and thorough curation.
 - Nicolas Papernot's talk on [What does it mean for ML to be trustworthy?](https://www.youtube.com/watch?v=UpGgIqLhaqo)
+- Golnoosh Farnadi's course on [Trustworthy Machine Learning](https://gfarnadi.github.io/courses/TrustworthyMLF22/lectures.html)
 
 ### **Privacy**
 - Gautam Kamath's course: [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html)
