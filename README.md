@@ -1,6 +1,6 @@
 ## **Ground Up Basics for Trustworthy Machine Learning**
 
-This is a curation of resources in various sub-fields of Computer Science and Math that are helpful to building a solid understanding of Trustoworthy Machine Learning. While there are many wonderful resources out there, this collection focuses on the required basics. This list is in no way complete and I encourage others to contribute to it :) 
+This is a curation of educational resources in various sub-fields of Computer Science and Math that are helpful to building a solid understanding of Trustworthy Machine Learning. While there are many wonderful resources out there, this collection focuses on the required basics. This list is in no way complete and I encourage others to contribute to it :) 
 
 ### **Topics**
 - Probability
