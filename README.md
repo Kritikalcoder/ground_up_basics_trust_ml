@@ -15,6 +15,7 @@ This is a curation of educational resources in various sub-fields of Computer Sc
 - Interpretability & Explainability
 - Causality
 - Adversarial Attacks & Robustness
+- Other Topics
 
 ### **Probability**
 - Stanford's course CS109: [Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1214/)
@@ -27,6 +28,7 @@ This is a curation of educational resources in various sub-fields of Computer Sc
 ### **Linear Algebra**
 
 ### **Machine Learning**
+- Book on [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - Coursera's [Machine Learning Specialization](https://in.coursera.org/specializations/machine-learning-introduction)
 - Andrew Zisserman's course on [Machine Learning](https://www.robots.ox.ac.uk/~az/lectures/ml/index.html)
 
@@ -38,6 +40,7 @@ This is a curation of educational resources in various sub-fields of Computer Sc
 Note that a majority of the resources mentioned from this section onwards is re-shared from [trustworthyml.org](https://www.trustworthyml.org/resources) - a wonderful and thorough curation.
 - Nicolas Papernot's talk on [What does it mean for ML to be trustworthy?](https://www.youtube.com/watch?v=UpGgIqLhaqo)
 - Golnoosh Farnadi's course on [Trustworthy Machine Learning](https://gfarnadi.github.io/courses/TrustworthyMLF22/lectures.html)
+- [Begginer's list for research papers in Trustworthy ML](https://trustworthy-machine-learning.github.io/) by Reza Shokri and Nicolas Papernot 
 
 ### **Privacy**
 - Gautam Kamath's course: [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html)
@@ -52,6 +55,15 @@ Note that a majority of the resources mentioned from this section onwards is re-
 ### **Causality**
 
 ### **Adversarial Attacks & Robustness**
+
+### **Other Topics**
+- Ethics
+- Security
+- Accountability
+- Safety
+- Confidentiality
+- Unlearning/Forgetting
+- Decentralization/Federated Learning
 
 ### **Other Related and Larger Collections**
 - [Awesome ML Fairness](https://github.com/brandeis-machine-learning/awesome-ml-fairness)
